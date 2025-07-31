@@ -20,7 +20,7 @@ A browser-based Tic Tac Toe game built using **modular JavaScript**, with a focu
 
 1. Clone this repository.
 2. Open `index.html` in your browser.
-3. Enter player names and custom marks.
+3. Enter player names — Player 1 uses X, and Player 2 uses O.
 4. Click **Start Game**.
 5. Click on any board square to place your mark.
 6. Game ends automatically on a win or draw.
